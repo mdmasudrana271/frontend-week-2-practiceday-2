@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#no-data {
+  margin-top: 8%;
+  font-size: 55px;
+}
+.meal-container {
+  justify-content: start;
+}
+.det-card {
+  height: 60%;
+}
